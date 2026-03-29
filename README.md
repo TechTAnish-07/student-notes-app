@@ -64,8 +64,6 @@ cd student-notes-app
 docker compose up --build
 ```
 
-Visit **http://127.0.0.1:56618/** in your browser.
-
 To stop:
 ```bash
 docker compose down
