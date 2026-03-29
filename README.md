@@ -64,7 +64,7 @@ cd student-notes-app
 docker compose up --build
 ```
 
-Visit **http://localhost:3000** in your browser.
+Visit **http://127.0.0.1:56618/** in your browser.
 
 To stop:
 ```bash
